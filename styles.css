@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background:#0b0f17; color:#fff; margin:0; }
+.container { max-width: 720px; margin: 40px auto; padding: 0 16px; }
+.muted { color:#9aa4b2; }
+.card { background:#141b26; border:1px solid #273245; border-radius:12px; padding:16px; margin:14px 0; }
+input, select, button { width:100%; padding:10px; margin:8px 0; border-radius:8px; border:1px solid #384860; }
+button { background:#5b8cff; color:#fff; border:0; cursor:pointer; }
+pre { background:#0f1623; border:1px solid #273245; border-radius:12px; padding:12px; white-space:pre-wrap; }

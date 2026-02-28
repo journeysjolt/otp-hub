@@ -1,0 +1,8 @@
+services:
+  - type: static
+    name: otp-app
+    rootDir: otp_frontend
+    staticPublishPath: .
+    envVars:
+      - key: API_BASE
+        value: https://otp-hub.onrender.com
